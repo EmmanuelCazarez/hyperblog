@@ -37,6 +37,10 @@ body {
     font-weight: normal;
     font-size: 1.6rem;
 }
+#container__post {
+    background: white;
+    padding: 1rem;
+}
 #container__post h1 {
     font-size: 2rem;
     padding-top: 2rem;
@@ -48,7 +52,9 @@ body {
     padding-top: 0.5rem;
     padding-left: 1.5rem;
 }
-#container__post {
-    background: white;
+#container__footer {
+    background: #777;
+    color: white;
+    text-align: center;
     padding: 1rem;
 }
