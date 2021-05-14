@@ -1,7 +1,7 @@
 # hyperblog 🧥
 #### Un blog increíble para el curso de git y github de Platzi
 
-**Hyperblog** se basa en explicar mi transcurso por que *git y github.*
+**Hyperblog** se basa en observar mi travesía por *git y github.*
 Y pues este repositorio es una práctica de lo que puedo hacer ahora con estas herramientas.
 
 ###### La verdad que estoy muy emocionado 🥁
